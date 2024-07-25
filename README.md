@@ -6,18 +6,18 @@ This repository is an open-source code for the [SIGMOD 2024 Programming Contest]
 ## About BitBigBang
 BitBigBang is a team originating from Xidian University and The Chinese University of Hong Kong, united by their passion for algorithm design and high-dimensional data search. The team has demonstrated exceptional skill and teamwork, leading them to become finalists in the prestigious SIGMOD 2024 Programming Contest.
 
-Members:
+Members: 
 
-| Name        | Institution                      | 
-|-------------|----------------------------------|
-| Tong Wu     | Xidian University                | 
-| Shuo Yang   | Xidian University                | 
-| Jiadong Xie | The Chinese University of Hong Kong | 
+| Name        | Institution                      | Email                         |
+|-------------|----------------------------------|-------------------------------|
+| Tong Wu     | Xidian University                | twu_1@stu.xidian.edu.cn       |
+| Shuo Yang   | Xidian University                | yangsh@stu.xidian.edu.cn      |
+| Jiadong Xie | The Chinese University of Hong Kong | jdxie@se.cuhk.edu.hk       |
 
 Advisor: 
-| Name        | Institution                      | 
-|-------------|----------------------------------|
-| Yingfan Liu | Xidian University                | 
+| Name        | Institution                      | Email                         |
+|-------------|----------------------------------|-------------------------------|
+| Yingfan Liu | Xidian University                | liuyingfan@xidian.edu.cn      |
 
 ## Task Overview
 For this year's contest, the task is to build an index for a set of vectors with attributes for answering hybrid vector queries. The index is required to efficiently find approximate k nearest neighbors of a given query vector under one given similarity measure, such as Euclidean distance, while satisfying the constraints on non-vector attributes.
