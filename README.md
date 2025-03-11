@@ -1,5 +1,5 @@
 # SIGMOD2024-Programming-Contest-BitBigBang
-This repository is an open-source code for the [SIGMOD 2024 Programming Contest](http://sigmodcontest2024.eastus.cloudapp.azure.com/index.shtml), which challenges participants to design and implement efficient and scalable algorithms for **Hybrid Vector Search** in high dimensional space. Our team, BitBigBang, was honored to become finalists.
+This repository is an open-source code for the [SIGMOD 2024 Programming Contest](https://dbgroup.cs.tsinghua.edu.cn/sigmod2024/index.shtml), which challenges participants to design and implement efficient and scalable algorithms for **Hybrid Vector Search** in high dimensional space. Our team, BitBigBang, was honored to become finalists.
 
 ![Ranking](image/ranking.jpg)
 
